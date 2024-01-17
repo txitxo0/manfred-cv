@@ -1,0 +1,351 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesús",
+      "surnames": "de Luis",
+      "title": "SRE-DevOps Engineer en BASF",
+      "description": "Me gusta aprender y saber un poco de todo lo que está a mi alcance. Desde el mundo del Internet del Todo y CICD, hasta mis proyectos personales enfocados de manera más técnica, como mis Raspberry pi que utilizo para un sin fin de proyectos caseros. Consultoría de arquitectura de software, programación backend (Spring Boot, MongoDB, SQL ), CI/CD DevOps.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/5720b19f-6b66-4538-9d66-a37354cd6cd4_linkedin-photo-40822.linkedin-photo-40822",
+        "alt": "24/01/17/5720b19f-6b66-4538-9d66-a37354cd6cd4_linkedin-photo-40822.linkedin-photo-40822"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jesusdeluis"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/txitxo0"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BASF",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/97c2a93b-4a2d-495b-ac8b-1ea4d20d4461_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/97c2a93b-4a2d-495b-ac8b-1ea4d20d4461_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "Site Reliability Engineer",
+            "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Desde el Hub Digital de Madrid, trabajamos en mejorar procesos y servicios de la compañía para proveer de mejor infraestrutctura e ingesta de datos para Enterprise Data Lake. Esto lo conseguimos en base a Infraestructura terraformada, pipelines de CI/CD que ayudan a software propio y de terceros como Azure Data Factory y Databricks a ingestar, transformar y cargar datos de un Datawarehouse y así entregar información más útil al cliente por medio de operaciones de BigData"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Visma",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/c7346611-4fd9-41eb-854a-de099e227b95_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/c7346611-4fd9-41eb-854a-de099e227b95_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2019-06-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Desde uno de los equipos con cultura DevOps de la compañía, tratamos de ayudar a desarrolladores y productos a automatizar la gestión y puesta en marcha de la infraestructura y políticas de versionado. Azure DevOps como herramienta de automatización para soportar desarrollos sobre infraestructa Azure. PowerShell para scripting y Yaml para desarrollar IaC"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/e6c7b2f1-74de-4573-9eb0-e8093ff1e640_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/e6c7b2f1-74de-4573-9eb0-e8093ff1e640_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2018-07-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Desarrollador para el ecommerce de la parte Non-Food de la compañía. Parte back-end del producto bajo tecnologías springboot, Oracle ATG, Mongodb, OracleDB, Openshift, etcétera. Trabajo bajo el marco de metrología Scrum como motor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Minsait",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/cb6f8ba7-c8d7-48c9-a865-1bb5ad166803_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/cb6f8ba7-c8d7-48c9-a865-1bb5ad166803_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor de Tecnologías Digitales para Minsait (Indra)",
+            "startDate": "2016-10-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Área de preventa de FEEP Enablement Platform Sofia2. Desarrollo técnico en proyectos, arquitectura e integrador para la plataforma IoT de Minsait (Indra), ayuda en desarrollo de negocio. Desarrollo de backend : REST, Spring Boot, JPA, Maven, MongoDB, SQL, Administración de sistemas Linux. Node.JS."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/999f5be1-965c-4467-9bfd-1e62ac1332a0_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/999f5be1-965c-4467-9bfd-1e62ac1332a0_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador para Smartcities",
+            "startDate": "2015-10-01",
+            "finishDate": "2016-10-31",
+            "challenges": [
+              {
+                "description": "Programador para desarrollo de la plataforma IOC sobre el proyecto de SmarterCities de la plataforma Ciudad conectada de Vodafone.\nUtilización de herramientas Broker. Bases de datos DB2. Protocolo MQTT. Servidor MQ. Web apps sobre Websphere Application Server"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/b3fc2d63-f0c2-443c-9996-418a0f70f70c_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/b3fc2d63-f0c2-443c-9996-418a0f70f70c_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "roles": [
+          {
+            "name": "Intern Sistemas - Asset Management",
+            "startDate": "2014-11-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Integración de la herramienta Markit EDM en la infraestructura de la parte gestora de la entidad BBVA Asset Management para su utilización como Data Quality Management y motor de Reporting para la revisión bajo las directivas europeas de AIFMD. Metodología de trabajo Agile."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure Functions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería de Telecomunicación, Telecommunications Engineering",
+        "startDate": "2006-01-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/bfd9d3ea-f8d1-4635-9f51-ed33b28938f8_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/bfd9d3ea-f8d1-4635-9f51-ed33b28938f8_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "finishDate": "2015-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programa Citius, Economía",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "Universidad Autónoma de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/17/35ac4faa-2911-43f1-b0a1-7e0b04911e38_linkedin-photo-40822.linkedin-photo-40822",
+            "alt": "24/01/17/35ac4faa-2911-43f1-b0a1-7e0b04911e38_linkedin-photo-40822.linkedin-photo-40822"
+          }
+        },
+        "finishDate": "2016-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jesusdeluis",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/txitxo0",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "txitxo0@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "MQTT",
+          "type": "technology"
+        },
+        {
+          "name": "PowerShell",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Líder SRE donde poder no solo construir buenas prácticas y automatizar procesos que ayude al resto de software engineers a trabajar más eficazmente, sino poder compartir conocimiento y establecer estándares como cultura de empresa"
+  }
+}

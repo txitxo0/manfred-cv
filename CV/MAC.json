@@ -206,18 +206,6 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PowerShell",
           "type": "technology"
         }
@@ -225,6 +213,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       }
@@ -346,6 +340,24 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Líder SRE donde poder no solo construir buenas prácticas y automatizar procesos que ayude al resto de software engineers a trabajar más eficazmente, sino poder compartir conocimiento y establecer estándares como cultura de empresa"
   }
 }

@@ -251,6 +251,21 @@
           }
         },
         "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecomunication engineering",
+        "startDate": "2012-08-01",
+        "institution": {
+          "name": "Chalmers tekniska högskola",
+          "description": "One full year studying Erasmus in Master courses in Gothemburg (Sweden)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/18/6dcbfde5-0a2c-47e4-8198-82ede5fcf743_chalmers.jpg",
+            "alt": "Chalmers.jpg"
+          }
+        },
+        "finishDate": "2013-08-01"
       }
     ],
     "softSkills": [

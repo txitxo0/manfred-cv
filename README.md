@@ -2,7 +2,7 @@
 
 # Jesús de Luis's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/4a03c210-7042-418a-9835-61d4fded832b).
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/jdeluisserrano).
 <br/>
 <br/>
 

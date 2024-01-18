@@ -280,6 +280,12 @@
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
       }
     ]
   },
